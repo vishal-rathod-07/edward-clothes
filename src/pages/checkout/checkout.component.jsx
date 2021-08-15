@@ -41,7 +41,7 @@ const CheckoutPage = ({ cartItems, total }) => (
       <br />
       4242 4242 4242 4242
       <br />
-      Exp: 12/20 - CVV: 123
+      Exp: 12/21 - CVV: 123
     </div>
   </div>
 );
